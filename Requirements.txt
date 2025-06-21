@@ -1,0 +1,4 @@
+funasr
+git+https://github.com/huggingface/transformers.git
+TTS
+numpy==2.0.1
